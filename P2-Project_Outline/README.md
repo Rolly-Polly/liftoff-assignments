@@ -7,11 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I want to develop a webiste where a daycare provider can mantain a log for each child with daily events such as feedings, diaper changes, naps, ecc. Parents would be able to access the information throughout the day.
 ### Features
-Include Features here
+User Login
+Add new entries
+Create user for parents to see their child info.
 ### Technologies
-Include Technologies here
+Html
+JavaScript
+Bootsrap
 
 ### What I'll Have to Learn
-Include what you will need to learn here
